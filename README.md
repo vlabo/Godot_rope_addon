@@ -9,7 +9,7 @@ rigid body and connected to his neighbours whit pin joint.
 You can add or remove control points of the curve and you can pin every control point to the "wall".
 
 * __Backe Interval__: Sets the distance in pixels between two adjacent cached points
-* __Width__: the with of every rigid body
+* __Width__: the width of every rigid body
 * __Softness__: the sofftnes of every pin joint
 * __Mass__: the mass of every rigid body
 * __Bounce__: the bouncines of every rigid body

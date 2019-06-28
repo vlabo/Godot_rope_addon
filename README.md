@@ -1,5 +1,7 @@
 # Godot_rope_addon
 
+## Works only with godot 2 
+
 This is an Godot addon for rope phisics.
 
 
